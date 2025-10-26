@@ -48,5 +48,12 @@ Mas, ao ver a matemática funcionando em **código e imagens**, comecei a **ente
 Este repositório é minha tentativa de transformar o aprendizado em algo **experimental, visual e acessível** — e talvez ajudar outros que aprendem da mesma forma.
 
 ---
+🧑‍💻 Autor
+
+Murilo Cardoso
+
+Aprendendo matemática através da programação.
+
+
 > “A melhor maneira de entender é construir.”
 > — Seymour Papert
