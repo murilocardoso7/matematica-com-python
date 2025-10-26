@@ -1,5 +1,6 @@
 # 🧮 Matemática com Python
 
+
 Este repositório é o registro do meu aprendizado de **matemática de forma intuitiva e visual**, usando **Python** como ferramenta de raciocínio.
 
 Minha abordagem não é baseada em fórmulas ou equações abstratas, mas em **entender os conceitos por meio de código e visualização** — ver a matemática *acontecendo* na tela.
@@ -19,9 +20,9 @@ Minha abordagem não é baseada em fórmulas ou equações abstratas, mas em **e
 
 ## 📘 Estudos
 
-Cada notebook contém um tema específico.  
-Todos podem ser **visualizados diretamente aqui no GitHub**:
+Cada notebook contém um tema específico:
 
+- [Calcular as Raízes de uma Equação do 2° Grau](https://github.com/murilocardoso7/matematica-com-python/blob/main/notebooks/raizes_equacao_segundo_grau.ipynb)
 - [Álgebra Básica](notebooks/algebra_basica.ipynb)  
 - [Estatística Visual](notebooks/estatistica_visual.ipynb)  
 - [Geometria Exploratória](notebooks/geometria_exploratoria.ipynb)  
